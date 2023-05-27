@@ -1,0 +1,25 @@
+
+.bt {
+    background-color: #5807d3; color:white; font-size: 20px; padding: 10px 13px; text-decoration: none;
+}
+.hd {
+    text-align:right;
+    margin-top: 30px;
+}
+.bt:hover {
+    background-color: #997fbe;
+}
+
+article {
+    text-align: center;
+    background-color: #b94fce;
+}
+h1 {
+   color:#6600FF ; 
+}
+h2 {
+    color:#ffffff ;
+}
+.ar  {
+    background-color:#17b46b ;
+}
